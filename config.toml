@@ -1,3 +1,4 @@
+baseurl = "https://github.com/spacehumpback/solar_final"
 title = "Solar Theme"
 theme = "solar-theme-hugo"
 paginate = 5
