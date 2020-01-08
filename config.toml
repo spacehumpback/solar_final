@@ -1,4 +1,4 @@
-baseurl = "https://github.com/spacehumpback/solar_final"
+baseurl = "https://github.com/spacehumpback/solar_final.git"
 title = "Solar Theme"
 theme = "solar-theme-hugo"
 paginate = 5
@@ -6,7 +6,7 @@ pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256
 copyright = ""
 
 [params]
-  scheme = "preferences" # light, dark, gray or preference
+  scheme = "preference" # light, dark, gray or preference
   description = "A wizard is never late"
 
 [menu]
