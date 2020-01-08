@@ -6,7 +6,7 @@ pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256
 copyright = ""
 
 [params]
-  scheme = "dark" # light, dark, gray or preference
+  scheme = "preferences" # light, dark, gray or preference
   description = "A wizard is never late"
 
 [menu]
